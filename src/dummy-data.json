@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "gender": "male",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "123-456-7890",
+        "purchase_date": "2024-04-12",
+        "purchase_type": "Product Purchase",
+        "revenue": 150
+    },
+    {
+        "id": 2,
+        "gender": "female",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "987-654-3210",
+        "purchase_date": "2024-04-15",
+        "purchase_type": "Service Subscription",
+        "revenue": 200
+    },
+    {
+        "id": 3,
+        "gender": "male",
+        "name": "Michael Johnson",
+        "email": "michael.johnson@example.com",
+        "phone": "456-789-0123",
+        "purchase_date": "2024-04-18",
+        "purchase_type": "Online Course",
+        "revenue": 300
+    },
+    {
+        "id": 4,
+        "gender": "female",
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "phone": "789-012-3456",
+        "purchase_date": "2024-04-20",
+        "purchase_type": "Ebook Purchase",
+        "revenue": 50
+    },
+    {
+        "id": 5,
+        "gender": "male",
+        "name": "David Martinez",
+        "email": "david.martinez@example.com",
+        "phone": "012-345-6789",
+        "purchase_date": "2024-04-22",
+        "purchase_type": "Workshop Registration",
+        "revenue": 100
+    },
+    {
+        "id": 6,
+        "gender": "female",
+        "name": "Sarah Wilson",
+        "email": "sarah.wilson@example.com",
+        "phone": "345-678-9012",
+        "purchase_date": "2024-04-25",
+        "purchase_type": "Fitness Membership",
+        "revenue": 250
+    },
+    {
+        "id": 7,
+        "gender": "male",
+        "name": "Christopher Taylor",
+        "email": "christopher.taylor@example.com",
+        "phone": "678-901-2345",
+        "purchase_date": "2024-04-28",
+        "purchase_type": "Consultation Service",
+        "revenue": 180
+    },
+    {
+        "id": 8,
+        "gender": "female",
+        "name": "Jessica Garcia",
+        "email": "jessica.garcia@example.com",
+        "phone": "901-234-5678",
+        "purchase_date": "2024-04-30",
+        "purchase_type": "Personal Training Session",
+        "revenue": 120
+    },
+    {
+        "id": 9,
+        "gender": "male",
+        "name": "Andrew Miller",
+        "email": "andrew.miller@example.com",
+        "phone": "234-567-8901",
+        "purchase_date": "2024-05-02",
+        "purchase_type": "Nutritional Plan",
+        "revenue": 90
+    },
+    {
+        "id": 10,
+        "gender": "female",
+        "name": "Megan Thompson",
+        "email": "megan.thompson@example.com",
+        "phone": "567-890-1234",
+        "purchase_date": "2024-05-05",
+        "purchase_type": "Equipment Purchase",
+        "revenue": 300
+    },
+    {
+        "id": 11,
+        "gender": "male",
+        "name": "Kevin Lee",
+        "email": "kevin.lee@example.com",
+        "phone": "890-123-4567",
+        "purchase_date": "2024-05-08",
+        "purchase_type": "Online Seminar",
+        "revenue": 150
+    },
+    {
+        "id": 12,
+        "gender": "female",
+        "name": "Amanda Harris",
+        "email": "amanda.harris@example.com",
+        "phone": "123-456-7890",
+        "purchase_date": "2024-05-10",
+        "purchase_type": "Fitness Class Pass",
+        "revenue": 75
+    },
+    {
+        "id": 13,
+        "gender": "male",
+        "name": "Brian Wilson",
+        "email": "brian.wilson@example.com",
+        "phone": "456-789-0123",
+        "purchase_date": "2024-05-13",
+        "purchase_type": "Diet Consultation",
+        "revenue": 200
+    },
+    {
+        "id": 14,
+        "gender": "female",
+        "name": "Samantha Clark",
+        "email": "samantha.clark@example.com",
+        "phone": "789-012-3456",
+        "purchase_date": "2024-05-16",
+        "purchase_type": "Group Fitness Class",
+        "revenue": 100
+    },
+    {
+        "id": 15,
+        "gender": "male",
+        "name": "Daniel Rodriguez",
+        "email": "daniel.rodriguez@example.com",
+        "phone": "012-345-6789",
+        "purchase_date": "2024-05-19",
+        "purchase_type": "Training Program",
+        "revenue": 180
+    }
+]

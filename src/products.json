@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "Online Coaching pentru 1 luna",
+        "features": [
+            "Plan antrenament personalizat",
+            "Plan alimentar personalizat",
+            "Recomandari de suplimente",
+            "Asistenta pe Whatsapp",
+            "Verificari si ajustari"
+        ],
+        "price": 250.00,
+        "price_id": "price_1PAtH8E3gNlvAX2onjhivxdc"
+    },
+    {
+        "id": 2,
+        "title": "Personal Training 12 sedinte/luna",
+        "features": [
+            "Antrenamentele se tin la grup",
+            "Locatia: 18 Gym Buna-Ziua",
+            "Plan alimentar personalizat ",
+            "Asistenta pe Whatsapp",
+            "Verificari si ajustari"
+        ],
+        "price": 350.00,
+        "price_id": "price_1PAtI5E3gNlvAX2oonh3sMgk"
+    },
+    {
+        "id": 3,
+        "title": "Personal Training 16 sedinte/luna",
+        "features": [
+            "Antrenamentele se tin la grup",
+            "Locatia: 18 Gym Buna-Ziua",
+            "Plan alimentar personalizat ",
+            "Asistenta pe Whatsapp",
+            "Verificari si ajustari"
+        ],
+        "price": 450.00,
+        "price_id": "price_1PAtIbE3gNlvAX2o9cX7QonD"
+    }
+]
